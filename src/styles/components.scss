@@ -1,0 +1,15 @@
+// CUSTOM COMPONENT STYLES
+
+.card {
+  @apply bg-gray-100 rounded-lg p-4 flex justify-center mb-5 shadow-md;
+}
+.card:hover {
+  @apply shadow-2xl;
+}
+
+li {  
+  @apply px-8 py-6 text-center text-base border-r-8 border-transparent;
+}
+li:hover {
+  @apply cursor-pointer border-gray-400;
+}
