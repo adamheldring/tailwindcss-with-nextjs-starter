@@ -52,10 +52,10 @@ const Home = () => (
               <a href="https://youtu.be/J_7_mnFSLDg">
                 <li className="bg-green-200">Best Practices Talk</li>
               </a>
-              <a href="https://sass-lang.com/">
+              <a href="https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss">
                 <li className="bg-green-400">VSCode Intellisense Plugin</li>
               </a>
-              <a href="https://sass-lang.com/">
+              <a href="https://dev.to/notrab/get-up-and-running-with-tailwind-css-and-next-js-3a73">
                 <li className="bg-green-600">Tailwind With Next Blog-post</li>
               </a>
             </ul>
