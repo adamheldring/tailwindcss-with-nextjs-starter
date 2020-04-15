@@ -1,6 +1,6 @@
 const Breakpoints = () => {
   return(
-    <div className="flex flex-col">
+    <div className="absolute top-0 w-full flex flex-col">
       <div className="text-center p-1 bg-teal-400 sm:hidden">
         Breakpoint <i>DEFAULT</i>
       </div>
