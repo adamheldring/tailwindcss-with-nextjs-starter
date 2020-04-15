@@ -1,3 +1,5 @@
+const { colors } = require('tailwindcss/defaultTheme')
+
 module.exports = {
   theme: {
     extend: {
@@ -5,7 +7,9 @@ module.exports = {
         "full": "1380px"
       },
       colors: {
-        primary: "#C0FFEE"
+        primary: colors.blue,
+        secondary: colors.green,
+        tertiary: "#C0FFEE"
       }
     },
   },

@@ -27,7 +27,7 @@ const Home = () => (
         <div className="w-full md:w-1/2 lg:w-1/3 px-2">
           <div className="card">
             <h2 className="font-bold text-4xl m-auto text-pink-300 flex">Sass</h2>
-          </div>          
+          </div>
         </div>
       </div>
       <div className="flex-wrap flex -mx-2">
