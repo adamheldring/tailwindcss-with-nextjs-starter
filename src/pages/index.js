@@ -9,7 +9,7 @@ const Home = () => (
       <link rel="icon" href="/favicon.ico" />
     </Head>
     <Breakpoints />
-    <div className="container mx-auto px-8 mt-20">
+    <div className="container px-8 mt-20">
       <div className="card w-full mt-5 tracking-widest">
         <h1 className="font-bold text-gray-600 text-4xl sm:text-6xl italic">STARTER KIT</h1>
       </div>
